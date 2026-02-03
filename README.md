@@ -2,15 +2,6 @@
 Simple algorithmic trading bot with backtesting and live simulation.
 Build with Spring Boot(Java) and React (Vite).
 
-# Trading Bot
-
-
-
-This project is a simple algorithmic trading bot built as a technical assignment.
-
-
----
-
 
 
 ## Tech Stack
