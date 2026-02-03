@@ -216,7 +216,7 @@ Steps:
    
    -Backend runs on https://localhost:8080
 
-   -Frontend rund on http://localhost:5173
+   -Frontend runs on http://localhost:5173
 
    Frontend requirments:
    
