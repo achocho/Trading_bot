@@ -213,13 +213,17 @@ Steps:
 2. Update application.properties
 
 3. Run:
+   
    -Backend runs on https://localhost:8080
 
    -Frontend rund on http://localhost:5173
 
    Frontend requirments:
+   
        -Node.js 18+
+   
        -command prompt:
+   
             -cd frontend
             -npm install
             -npm run dev
